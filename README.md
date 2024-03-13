@@ -4,6 +4,7 @@
 ### Business Problem
 ## Dataset description
 This dataset contains fictional data representing the spending habits of 1000 students across various demographic groups and academic backgrounds
+<br/>
 <br/> **Link to dataset:**
  > https://www.kaggle.com/datasets/sumanthnimmagadda/student-spending-dataset/data
 ## Questions to data
