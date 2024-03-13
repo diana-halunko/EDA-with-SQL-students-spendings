@@ -23,6 +23,7 @@
 | Health & Wellness | Expenses for health and wellness (in dollars) |
 | Miscellaneous | Miscellaneous expenses (in dollars) |
 | Preferred Payment Method | Preferred payment method (Cash, Credit/Debit Card, Mobile Payment App) |
+
 <br/> **Link to dataset:**
  > https://www.kaggle.com/datasets/sumanthnimmagadda/student-spending-dataset/data
 ## Questions to data
