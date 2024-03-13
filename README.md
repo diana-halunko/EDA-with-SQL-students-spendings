@@ -41,3 +41,4 @@
 ### 3. Preparing SQL-queries
 ### 4. Data visualisation
 ### Methods and libraries used in the project
+SQL Magic, Pandas
