@@ -1,4 +1,4 @@
-# Exploring Student Financial Behaviors
+# Exploring Student Financial Behaviors 🤔
 ## Project desription
 ### Business Problem
 ## Dataset description
