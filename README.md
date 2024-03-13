@@ -1,5 +1,4 @@
-# Students spendings EDA with SQL
-## What is EDA?
+# Exploring Student Financial Behaviors
 ## Project desription
 ### Business Problem
 ## Dataset description
