@@ -1,5 +1,7 @@
 # Students spendings EDA with SQL
+# What is EDA?
 # Project desription
+## Business Problem
 # Dataset description
 # Questions to data
 # Main stages
